@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\WisataController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -13,3 +14,6 @@ Route::get('/map', function () {
 Route::view('/destinations', 'pages.destinations');
 
 Route::view('/about', 'pages.about');
+
+Route::get('/wisatas', [WisataController::class, 'index']);
+Route::get('/wisatas/{wisatum}', [WisataController::class, 'show'])->name('wisatas.show');

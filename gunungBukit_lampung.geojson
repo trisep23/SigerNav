@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "nama": "Gunung Rajabasa",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "gunung_bukit",
+        "elevasi": 1281,
+        "deskripsi": "Gunung Rajabasa adalah gunung berapi dengan kerucut vulkanik yang terdapat di Selat Sunda di bagian tenggara dari Sumatra, terletak di Kabupaten Lampung Selatan, Provinsi Lampung. Gunung Rajabasa memiliki puncak kawah dengan lebar 500x700 meter dan bagian daratan berawa, serta gunung berapi yang diselimuti dengan berbagai vegetasi. Berjarak kurang lebih 5 km dari Kota Kalianda ke arah selatan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.6289,
+          -5.7268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "nama": "Gunung Tanggamus",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "gunung_bukit",
+        "elevasi": 2102,
+        "deskripsi": "Gunung Tanggamus adalah gunung yang terletak di Kabupaten Tanggamus, Provinsi Lampung, Indonesia. Dengan ketinggian sekitar 2.100 meter di atas permukaan laut, gunung ini merupakan puncak tertinggi kedua di Lampung setelah Gunung Pesagi. Terletak sekitar 10 kilometer timur laut dari Kota Agung dan menjadi destinasi populer bagi pendaki dari seluruh Lampung dan sekitarnya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.65,
+          -5.415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "nama": "Gunung Pesagi",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "gunung_bukit",
+        "elevasi": 2241,
+        "deskripsi": "Gunung Pesagi adalah gunung tidak aktif yang merupakan salah satu dari 5 gunung bersejarah di Provinsi Lampung, Indonesia. Dari kelima gunung tersebut, Gunung Pesagi memiliki puncak paling tinggi di tanah Lampung. Memiliki dua puncak tertinggi: Pesagi Lunik (kecil) 2.262 mdpl dan Pesagi Balak (besar) 3.221 mdpl. Gunung Pesagi merupakan titik tertinggi di Lampung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.024,
+          -4.968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "nama": "Gunung Betung",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "gunung_bukit",
+        "elevasi": 1240,
+        "deskripsi": "Gunung Betung terletak di Kabupaten Pesawaran, Lampung. Dengan ketinggian 1.240 meter di atas permukaan laut, gunung ini populer di kalangan pendaki lokal karena akses yang relatif mudah dari Bandar Lampung. Dikenal dengan jalur pendakian yang cukup ramah bagi pemula dan pemandangan alam yang indah di sekitarnya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.176,
+          -5.427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "nama": "Gunung Seminung",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "gunung_bukit",
+        "elevasi": 1964,
+        "deskripsi": "Gunung Seminung adalah gunung tidak aktif tipe maar yang terletak di perbatasan Provinsi Lampung dan Sumatera Selatan, Indonesia. Dengan ketinggian sekitar 1.881 meter, gunung ini terletak sekitar 25 kilometer barat laut dari Kota Liwa, dengan dasarnya menyentuh Danau Ranau yang membentang di kedua provinsi. Jalur pendakian resmi dimulai dari Desa Kota Batu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.92,
+          -4.732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "nama": "Gunung Pugung",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "gunung_bukit",
+        "elevasi": 1964,
+        "deskripsi": "Gunung Pugung adalah gunung yang terletak di Kecamatan Pesisir Utara, Kabupaten Pesisir Barat, Provinsi Lampung. Dengan ketinggian sekitar 1.964 meter di atas permukaan laut, gunung ini terletak di barat-barat laut Kota Liwa, berjarak sekitar 30 kilometer. Merupakan salah satu destinasi pendakian yang menawarkan keindahan alam Lampung bagian barat."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.57,
+          -5.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "nama": "Gunung Rindingan",
+        "alamat": "Kabupaten Lampung Barat / Tanggamus",
+        "kategori": "gunung_bukit",
+        "elevasi": 1881,
+        "deskripsi": "Gunung Rindingan terletak di perbatasan Kabupaten Lampung Barat dan Tanggamus dengan ketinggian sekitar 1.881 meter di atas permukaan laut. Merupakan salah satu dari lima gunung bersejarah di Lampung. Menawarkan pemandangan spektakuler dan menjadi tantangan menarik bagi pendaki yang menyukai petualangan alam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28,
+          -5.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "nama": "Gunung Anak Krakatau",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "gunung_bukit",
+        "elevasi": 157,
+        "deskripsi": "Anak Krakatau adalah pulau vulkanik kecil di kepulauan Krakatau, terletak antara Pulau Sertung di barat dan Pulau Rakata Kecil di timur. Gunung berapi aktif yang selalu aktif, biasanya meletus setiap beberapa bulan dengan letusan tipe Stromboli yang mengirim material ke udara untuk membangun tubuhnya. Muncul dari aktivitas vulkanik sejak tahun 1927 dan menjadi pulau termuda Indonesia yang terbentuk melalui vulkanisme."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.4235,
+          -6.1025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "nama": "Gunung Batu Serampok",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "gunung_bukit",
+        "elevasi": 850,
+        "deskripsi": "Gunung Batu Serampok terletak di Kabupaten Pesawaran dengan ketinggian 850 meter di atas permukaan laut. Terkenal dengan formasi batuan unik yang menyerupai tembok atau benteng alami. Menjadi destinasi hiking yang populer bagi masyarakat lokal karena akses yang mudah dan pemandangan yang menakjubkan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.11,
+          -5.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "nama": "Gunung Sekincau",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "gunung_bukit",
+        "elevasi": 1718,
+        "deskripsi": "Gunung Sekincau adalah gunung berapi yang terletak di Kecamatan Sekincau, Kabupaten Lampung Barat, Provinsi Lampung. Memiliki dua kaldera — Belirang (2 km²) dan Balak (2,5 km²) — dengan aktivitas fumarol di tepi kaldera. Lereng gunung banyak dibudidayakan oleh masyarakat lokal untuk perkebunan kopi dan sayuran."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.998,
+          -4.916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "nama": "Bukit Sakura (Kemiling)",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "gunung_bukit",
+        "elevasi": 280,
+        "deskripsi": "Bukit Sakura terletak di kawasan Kemiling, Kota Bandar Lampung. Dengan ketinggian sekitar 280 meter di atas permukaan laut, bukit ini terkenal sebagai tempat pandang sunrise dan sunset yang populer di kalangan warga kota. Akses yang mudah menjadikannya destinasi singkat untuk menikmati pemandangan alam tanpa harus pergi jauh."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.1968,
+          -5.3805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "nama": "Lengkung Langit 1",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "gunung_bukit",
+        "elevasi": 300,
+        "deskripsi": "Lengkung Langit adalah kawasan bukit di Kota Bandar Lampung yang terkenal dengan pemandangan langit yang indah, khususnya saat matahari terbit dan terbenam. Lengkung Langit 1 merupakan salah satu dari dua titik pandang yang menawarkan panorama spektakuler dari ketinggian sekitar 300 meter. Sangat populer untuk fotografi dan piknik keluarga."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.193,
+          -5.386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "nama": "Lengkung Langit 2",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "gunung_bukit",
+        "elevasi": 320,
+        "deskripsi": "Lengkung Langit 2 terletak di kawasan yang sama dengan Lengkung Langit 1 di Kota Bandar Lampung, pada ketinggian sekitar 320 meter. Menawarkan pemandangan yang tidak kalah indah, sering dikunjugi untuk menikmati keindahan langit terutama pada pagi dan sore hari. Cocok untuk aktivitas rekreasi ringan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.188,
+          -5.389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "nama": "Bukit Aslan",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "gunung_bukit",
+        "elevasi": 230,
+        "deskripsi": "Bukit Aslan terletak di kawasan Kota Bandar Lampung dengan ketinggian sekitar 230 meter. Dinamai demikian karena bentuknya yang menyerupai singa (aslan = singa dalam bahasa Inggris). Menjadi salah satu spot fotografi populer di kota karena silhouette-nya yang khas saat dilihat dari kejauhan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.241,
+          -5.406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "nama": "Bukit Punggur",
+        "alamat": "Kabupaten Way Kanan",
+        "kategori": "gunung_bukit",
+        "elevasi": 900,
+        "deskripsi": "Bukit Punggur terletak di Kabupaten Way Kanan dengan ketinggian sekitar 900 meter di atas permukaan laut. Dikenal dengan panorama alam yang masih sangat asri dan udara sejuk pegunungan. Menjadi destinasi hiking yang menarik bagi pendaki yang ingin mengeksplorasi keindahan alam pedalaman Lampung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3,
+          -4.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "nama": "Bukit Rigis",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "gunung_bukit",
+        "elevasi": 1070,
+        "deskripsi": "Bukit Rigis terletak di Kabupaten Lampung Barat dengan ketinggian sekitar 1.070 meter di atas permukaan laut. Terkenal dengan formasi bukit bergelombang yang membentuk pola mirip rigi-rigi atau garis-garis di permukaannya. Menawarkan pemandangan savana yang luas dan menjadi spot camping favorit bagi pendaki."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.036,
+          -5.042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "nama": "Bukit Barisan Selatan (Gerbang Liwa)",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "gunung_bukit",
+        "elevasi": 1200,
+        "deskripsi": "Gerbang Liwa adalah pintu masuk utama ke kawasan Taman Nasional Bukit Barisan Selatan di Kabupaten Lampung Barat. Terletak di ketinggian sekitar 1.200 meter di atas permukaan laut, kawasan ini menjadi gerbang bagi pendaki dan pecinta alam yang ingin mengeksplorasi keanekaragaman hayati di salah satu hutan tropis terpanjang di dunia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.92,
+          -5.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "nama": "Bukit Muncak",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "gunung_bukit",
+        "elevasi": 500,
+        "deskripsi": "Bukit Muncak terletak di Kabupaten Pesawaran dengan ketinggian sekitar 500 meter di atas permukaan laut. Dinamai demikian karena lokasinya yang seolah menjadi puncaknya dari deretan bukit di kawasan tersebut. Menawarkan pemandangan spektakuler尤其是 dari kejauhan dan cocok untuk aktivitas hiking ringan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.17,
+          -5.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "nama": "Bukit Berbunga",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "gunung_bukit",
+        "elevasi": 350,
+        "deskripsi": "Bukit Berbunga terletak di Kabupaten Lampung Selatan pada ketinggian sekitar 350 meter di atas permukaan laut. Dikenal karena hamparan bunga-bunga liar yang tumbuh di kawasan ini pada musim tertentu, menciptakan pemandangan yang penuh warna. Menjadi spot fotografi alam yang populer dan tempat rekreasi keluarga."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.58,
+          -5.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "nama": "Gunung Ratai",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "gunung_bukit",
+        "elevasi": 1113,
+        "deskripsi": "Gunung Ratai terletak di Kabupaten Pesawaran dengan ketinggian 1.113 meter di atas permukaan laut. Merupakan salah satu gunung yang populer di kalangan pendaki lokal karena jalurnya yang jelas dan pemandangan dari puncaknya yang menakjubkan. Terletak tidak jauh dari Bandar Lampung sehingga mudah diakses untuk hiking周末."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.21,
+          -5.558
+        ]
+      }
+    }
+  ]
+}

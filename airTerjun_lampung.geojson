@@ -1,0 +1,345 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "nama": "Air Terjun Way Lalaan 1",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "airTerjun",
+        "deskripsi": "Terletak di kawasan Kecamatan Cagar Alam, Kabupaten Tanggamus. Air Terjun Way Lalaan memiliki keindahan alam berupa air jatuh yang deras di tengah hutan tropis. Akses jalur tracking memerlukan waktu sekitar 2-3 jam perjalanan dari pusat kota."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.69025,
+          -5.485239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "nama": "Air Terjun Way Lalaan 2",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "airTerjun",
+        "deskripsi": "Merupakan salah satu dari deretan air terjun di kawasan Way Lalaan, Tanggamus. Dikelilingi oleh pepohonan lebat dan udara sejuk pegunungan, tempat ini cocok untuk trekking dan eksplorasi alam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6915,
+          -5.487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "nama": "Air Terjun Lembah Pelangi",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "airTerjun",
+        "deskripsi": "Terletak di kawasan Tanggamus, memiliki panorama山谷 yang indah dengan semburan air yang dikelilingi vegetasi hijau. Cocok untuk pecinta alam dan fotografi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.48,
+          -5.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "nama": "Air Terjun Talang Ogan",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "airTerjun",
+        "deskripsi": "Terletak di aliran Sungai Ogan, menawarkan keindahan alam yang masih asri dengan latar belakang perbukitan hijau. Lokasi ini populer untuk aktivitas outbound."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.62,
+          -5.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "nama": "Air Terjun Batu Putu",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "airTerjun",
+        "deskripsi": "Terletak di kawasan perbatasan Kota Bandar Lampung, memiliki formasi batuan unik yang menyerupai batu putu. Akses relatif mudah dari jalan utama."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.22,
+          -5.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "nama": "Air Terjun Curup Gangsa",
+        "alamat": "Kabupaten Way Kanan",
+        "kategori": "airTerjun",
+        "deskripsi": "Terletak di Kabupaten Way Kanan, memiliki ketinggian sekitar 50 meter dengan aliran air yang deras. Dikenal juga dengan suara gemerisik yang menenangkan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28,
+          -4.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "nama": "Air Terjun Putri Malu",
+        "alamat": "Kabupaten Way Kanan",
+        "kategori": "airTerjun",
+        "deskripsi": "Dinamai demikian karena lokasinya tersembunyi dan sulit diakses. Menawarkan ketenangan alam yang masih terjaga dengan nuansa mistis di sekitarnya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.36,
+          -4.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "nama": "Air Terjun Sepapa Kanan",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "airTerjun",
+        "deskripsi": "Terletak di aliran Sungai Sepapa, Kabupaten Lampung Barat. Memiliki dua aliran air terjun yang berdekatan dengan kolam alami yang cocok untuk berenang."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.968,
+          -5.097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "nama": "Air Terjun Sepapa Kiri",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "airTerjun",
+        "deskripsi": "Sengkannya dari Sepapa Kanan, terletak di sisi kiri aliran sungai yang sama. Menawarkan keindahan yang tidak kalah dengan suasana yang lebih tenang."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.966,
+          -5.099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "nama": "Air Terjun Way Asahan",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "airTerjun",
+        "deskripsi": "Terletak di kawasan Lampung Barat dengan aliran air yang cukup besar di musim hujan. Dikelilingi oleh hutan tropis yang lebat dan segar."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.98,
+          -5.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "nama": "Air Terjun Ciupang",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "airTerjun",
+        "deskripsi": "Terletak di Daerah Purwajaya, Desa Sumberjaya, Kecamatan Way Ratai, Kabupaten Pesawaran, Provinsi Lampung. Lokasinya cukup mudah ditemukan karena tidak terlalu jauh dari pemukiman warga dan hanya sekitar dua jam perjalanan dari pusat kota Bandar Lampung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.16,
+          -5.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "nama": "Air Terjun Sinar Tiga",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "airTerjun",
+        "deskripsi": "Terletak di kawasan Pesawaran, memiliki tiga aliran air yang jatuh secara bersamaan menciptakan pemandangan spektakuler."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.14,
+          -5.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "nama": "Air Terjun Anglo",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "airTerjun",
+        "deskripsi": "Terletak di Desa Anglo, Pesawaran. Memiliki keunikan formasi batuan yang mengelilingi air terjun, menciptakan kolam alami yang jernih."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.13,
+          -5.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "nama": "Air Terjun Hurun",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "airTerjun",
+        "deskripsi": "Terletak di kawasan Hurun, Pesawaran. Dikelilingi oleh vegetasi tropis yang masih asri dengan udara sejuk sepanjang tahun."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.17,
+          -5.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "nama": "Air Terjun Way Sabu",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "airTerjun",
+        "deskripsi": "Terletak di aliran Sungai Way Sabu, menawarkan ketenangan dan keindahan alam yang masih sangat terjaga dari gangguan manusia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.18,
+          -5.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "nama": "Air Terjun Talang Rabun",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "airTerjun",
+        "deskripsi": "Terletak di kawasan Talang Rabun, Pesawaran. Sering kali dikelilingi kabut tipis di pagi hari, menciptakan suasana yang sangat fotogenik."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.17,
+          -5.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "nama": "Curup Tujuh (Air Terjun 7 Tingkat)",
+        "alamat": "Kabupaten Lampung Tengah",
+        "kategori": "airTerjun",
+        "deskripsi": "Merupakan air terjun bertingkat dengan total ketinggian sekitar 75 meter, terletak di aliran Sungai Way Seputih dalam kawasan hutan lindung Register 39 di Kota Agung Utara, Kabupaten Lampung Tengah. Visitors can drive or ride to the main access point at Ulu Brak hamlet in Margajaya village, Selagai Lingga District, and then continue on foot or via rented trail motorbikes to the forest boundary where the waterfall is located."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.85,
+          -4.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "nama": "Curup Lestari",
+        "alamat": "Kabupaten Lampung Tengah",
+        "kategori": "airTerjun",
+        "deskripsi": "Terletak di Register 39 Kota Agung Utara, Lampung Tengah. Merupakan salah satu curup yang masih lestari keaslian alamnya dengan ekosistem hutan yang sangat baik."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.92,
+          -4.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "nama": "Curup Pinang Indah",
+        "alamat": "Kabupaten Way Kanan",
+        "kategori": "airTerjun",
+        "deskripsi": "Terletak di kawasan Way Kanan, menawarkan keindahan alam dengan latar perbukitan hijau dan aliran air yang jernih di tengah hutan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.22,
+          -4.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "nama": "Curup Talang Mesir",
+        "alamat": "Kabupaten Lampung Utara",
+        "kategori": "airTerjun",
+        "deskripsi": "Terletak di Kabupaten Lampung Utara, memiliki panorama yang indah dengan dikelilingi tanaman pinang dan vegetasi tropis lainnya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.87,
+          -4.52
+        ]
+      }
+    }
+  ]
+}
