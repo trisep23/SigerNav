@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "nama": "Museum Lampung Ruwa Jurai",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "budaya_sejarah",
+        "deskripsi": "Museum Negeri Provinsi Lampung 'Ruwa Jurai' mulai dirintis sejak tahun 1975 dan diresmikan pada 24 September 1988 oleh Menteri Pendidikan dan Kebudayaan Prof. Dr. Fuad Hassan. Nama 'Ruwa Jurai' diambil dari filosofi masyarakat Lampung yang berarti dua golongan adat, yaitu Sai Batin dan Pepadun. Museum ini menyimpan sekitar 4.735 koleksi yang mencakup benda geologika, biologika, etnografika, historika, numismatika, filologika, keramologika, seni rupa, dan teknografika."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2405978772022,
+          -5.37290043515806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "nama": "Prasasti Batu Bedil",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "budaya_sejarah",
+        "deskripsi": "Prasasti Batu Bedil merupakan situs megalitik yang memadukan peninggalan zaman Megalitikum dengan pengaruh agama Buddha. Prasasti ini dituliskan pada sebongkah batu berukuran panjang 185 cm, terdiri dari 10 baris aksara Sumatera Kuno berbahasa Sansekerta, dan diperkirakan berasal dari akhir abad ke-9 atau awal abad ke-10. Situs ini juga terdapat 14 menhir yang membentuk formasi segi empat, serta berbagai artefak megalitik lainnya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7019612495546,
+          -5.3110561477224305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "nama": "Kampung Adat Kenali",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "budaya_sejarah",
+        "deskripsi": "Pekon Kenali di Kecamatan Belalau dianggap sebagai cikal bakal masyarakat Lampung, berada di kawasan dataran tinggi kaki Gunung Pesagi yang merupakan pusat Kerajaan Sekala Brak. Di sini terdapat rumah adat tradisional 'Lamban Pesagi', rumah panggung berbahan kayu dengan atap ijuk yang menjadi salah satu warisan arsitektur khas Lampung Saibatin. Kawasan ini menyimpan bukti-bukti peradaban Sekala Brak berupa tambo dan dalung yang diwariskan turun-temurun."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1951125892276,
+          -4.992131750626667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "nama": "Makam Ratu Darah Putih",
+        "alamat": "Kabupaten Pesisir Barat",
+        "kategori": "budaya_sejarah",
+        "deskripsi": "Makam Ratu Darah Putih merupakan situs ziarah penting yang berkaitan dengan pendiri Negara Keratuan Lampung. Ratu Darah Putih adalah leluhur bangsawan Lampung yang menurunkan garis keturunan raja-raja Keratuan, termasuk Radin Intan I dan Radin Intan II. Makam ini kerap dikunjungi masyarakat untuk berziarah dan mengenang jasa para pendahulu Lampung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.68546262302247,
+          -5.718222679709731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "nama": "Komplek Megalitik Pugung Raharjo",
+        "alamat": "Kabupaten Lampung Timur",
+        "kategori": "budaya_sejarah",
+        "deskripsi": "Taman Purbakala Pugung Raharjo adalah situs arkeologi seluas 30 hektar yang pertama kali ditemukan pada tahun 1957 oleh transmigran. Situs ini menyimpan peninggalan dari tiga era sekaligus: masa prasejarah Megalitikum (sekitar 2.500 SM), masa Hindu-Buddha, hingga masuknya pengaruh Islam. Di dalamnya terdapat menhir, dolmen, punden berundak menyerupai piramida, batu dakon, serta benteng parit sepanjang 1,2 kilometer yang mengelilingi kawasan utama."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.57123382746832,
+          -5.300868656492145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "nama": "Situs Batu Berak",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "budaya_sejarah",
+        "deskripsi": "Situs Batu Berak merupakan kawasan megalitik yang terletak di Lampung Barat, tidak jauh dari Situs Megalitik Batu Jagur. Situs ini mengandung berbagai peninggalan batu megalitik yang mencerminkan peradaban masyarakat prasejarah di dataran tinggi Lampung Barat, kawasan yang secara historis merupakan pusat kebudayaan Sekala Brak."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.53028129174852,
+          -5.05130341465309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "nama": "Situs Megalitik Batu Jagur",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "budaya_sejarah",
+        "deskripsi": "Situs Megalitik Batu Jagur adalah salah satu peninggalan budaya megalitik di kawasan Lampung Barat yang berada dalam satu klaster dengan Situs Batu Berak dan Situs Batu Tameng. Ketiga situs ini mencerminkan kekayaan peradaban megalitikum di wilayah dataran tinggi Lampung Barat yang merupakan pusat Kerajaan Sekala Brak, asal-muasal masyarakat Lampung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.53560480678046,
+          -5.061972360973086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "nama": "Museum Transmigrasi",
+        "alamat": "Kabupaten Lampung Tengah",
+        "kategori": "budaya_sejarah",
+        "deskripsi": "Museum Transmigrasi (UPTD Museum Ketransmigrasian) berlokasi di Desa Bagelen, dipilih karena di sinilah 23 kepala keluarga pertama bertransmigrasi ke Lampung pada era kolonial. Museum ini mengabadikan sejarah perpindahan penduduk dari Pulau Jawa ke Lampung, dilengkapi koleksi perangkat gamelan, wayang golek, serta benda-benda yang menceritakan kehidupan para transmigran. Di bagian luarnya terdapat bola besi raksasa yang digunakan untuk membuka lahan transmigrasi pada tahun 1953–1956."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.10686702350529,
+          -5.377732007713618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "nama": "Monumen Krakatau",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "budaya_sejarah",
+        "deskripsi": "Monumen Krakatau didirikan untuk mengenang letusan dahsyat Gunung Krakatau pada tahun 1883 yang menewaskan puluhan ribu jiwa dan mengubah lanskap pesisir Lampung secara permanen. Monumen ini dilengkapi berbagai relief yang menggambarkan kehidupan masyarakat Lampung sebelum dan setelah bencana tersebut, dan kini menjadi salah satu landmark sekaligus destinasi wisata sejarah di Bandar Lampung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.26216900828604,
+          -5.445655945586348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "nama": "Makam Pahlawan Raden Intan II",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "budaya_sejarah",
+        "deskripsi": "Radin Intan II (lahir 1834) adalah pahlawan nasional kebanggaan masyarakat Lampung yang gigih melawan penjajahan Belanda sejak usia 16 tahun. Ia merupakan cucu Radin Intan I dan keturunan Sunan Gunung Jati, dinobatkan sebagai pemimpin Keratuan Darah Putih sebelum gugur dalam pertempuran pada usia 22 tahun, 5 Oktober 1856. Pemerintah Indonesia menetapkannya sebagai Pahlawan Nasional pada 23 Oktober 1986, dan namanya kini diabadikan pada Bandara Internasional Radin Inten II di Lampung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.69114202789363,
+          -5.767656915520925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "nama": "Situs Megalit Batu Tameng",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "budaya_sejarah",
+        "deskripsi": "Situs Megalit Batu Tameng merupakan salah satu dari klaster situs megalitik di kawasan Lampung Barat yang berdekatan dengan Situs Batu Berak dan Batu Jagur. Kawasan ini menyimpan peninggalan batu-batu megalitik yang digunakan sebagai sarana ritual dan pemujaan leluhur oleh masyarakat prasejarah di dataran tinggi Lampung Barat, pusat peradaban Kerajaan Sekala Brak."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.53337127350345,
+          -5.050267045277362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "nama": "Monumen Perjuangan Lampung",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "budaya_sejarah",
+        "deskripsi": "Monumen Perjuangan Lampung merupakan landmark bersejarah di Bandar Lampung yang didirikan untuk mengenang perjuangan rakyat Lampung dalam mempertahankan kemerdekaan Indonesia. Monumen ini menjadi simbol semangat perlawanan masyarakat Lampung terhadap penjajahan, sekaligus ruang publik yang kerap dikunjungi warga untuk mengenang jasa para pahlawan daerah."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.25745616131152,
+          -5.408762277914868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "nama": "Masjid Agung Al-Furqon",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "budaya_sejarah",
+        "deskripsi": "Masjid Agung Al-Furqon adalah masjid terbesar di Bandar Lampung yang digagas langsung oleh Presiden Soekarno pada tahun 1951. Soekarno membeli lahan seluas 60.850 m² dari warga setempat dan mewakafkannya untuk umat Islam, dan masjid ini resmi diresmikan pada 5 April 1961. Nama 'Al-Furqon' berarti pembeda antara kebenaran dan kebatilan, dipilih Soekarno sebagai simbol perjuangan bangsa, dan kini masjid ini menjadi ikon kota sekaligus pusat kegiatan sosial, budaya, dan pendidikan masyarakat Lampung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.25996937326438,
+          -5.429308975113975
+        ]
+      }
+    }
+  ]
+}

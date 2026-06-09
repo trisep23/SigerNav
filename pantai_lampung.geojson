@@ -1,0 +1,1280 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "nama": "Pantai Tanjung Setia",
+        "alamat": "Kabupaten Pesisir Barat",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Tanjung Setia adalah surga bagi para peselancar dunia, terletak di Kecamatan Pesisir Selatan, Kabupaten Pesisir Barat. Ombaknya dari Samudera Hindia bisa mencapai ketinggian 6–7 meter dengan panjang hingga 200 meter, konsisten sepanjang Juni hingga Agustus. Pantai ini telah menjadi langganan tuan rumah kejuaraan World Surf League (WSL) Krui Pro sejak 2017, menjadikannya salah satu spot surfing bertaraf internasional terbaik di Asia Tenggara."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.99354773841455,
+          -5.313957304862374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "nama": "Pulau Pahawang",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pantai",
+        "deskripsi": "Pulau Pahawang adalah pulau terbesar di kawasan Teluk Ratai, Kecamatan Punduh Pidada, Kabupaten Pesawaran. Terdiri dari Pahawang Besar dan Pahawang Kecil, pulau ini terkenal dengan keindahan bawah lautnya yang memukau, terutama 'Taman Nemo' dengan ikan badut dan terumbu karang warna-warni yang menjadikannya destinasi snorkeling paling populer di Lampung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.22484625524514,
+          -5.662743627319321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "nama": "Pantai Mutun",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Mutun adalah pantai alami di Kecamatan Padang Cermin, Kabupaten Pesawaran, berjarak hanya 25 kilometer dari Kota Bandar Lampung dan dapat ditempuh sekitar 30 menit berkendara. Pantai ini mulai dikenal luas sebagai destinasi favorit warga Lampung sejak 2017, dilengkapi berbagai wahana air seperti kano, banana boat, dan perahu untuk menyeberang ke Pulau Tangkil yang ada di depannya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.26291102690648,
+          -5.514030307502522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "nama": "Pantai Klara",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Klara, singkatan dari 'Kelapa Rapat', adalah pantai di Kabupaten Pesawaran yang dicirikan oleh deretan pohon kelapa yang tumbuh rapat di sepanjang pantainya, menciptakan nuansa tropis yang teduh dan syahdu. Pantai ini berada berdekatan dengan Pantai Mutun dan Pantai Sari Ringgung, dilengkapi berbagai fasilitas wisata dan menjadi salah satu pantai favorit keluarga di Pesawaran."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.21304331613501,
+          -5.579836738931434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "nama": "Pantai Sari Ringgung",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Sari Ringgung terletak di Desa Sidodadi, Kecamatan Teluk Pandan, Kabupaten Pesawaran. Daya tarik utamanya adalah fenomena 'Pasir Timbul', yaitu daratan pasir kecil yang muncul di tengah laut saat air surut dan bisa dicapai dengan perahu dalam 15–25 menit. Pantai ini juga memiliki Masjid Apung Al-Aminah yang unik dan berbagai wahana air seperti banana boat, kano, dan speed boat."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.26075726864131,
+          -5.555993707705495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "nama": "Pantai Mandiri",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Mandiri di Kabupaten Pesawaran menawarkan suasana pantai yang tenang dengan pasir putih dan perairan yang jernih di kawasan Teluk Lampung. Pantai ini berada dekat klaster wisata bahari Pesawaran lainnya seperti Sari Ringgung dan Batu Mandi, menjadikannya bagian dari rangkaian destinasi wisata pantai populer di wilayah Pesawaran."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.25217984974516,
+          -5.557630094920312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "nama": "Pantai Labuhan Jukung",
+        "alamat": "Kabupaten Pesisir Barat",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Labuhan Jukung adalah pantai utama di Kota Krui, ibu kota Kabupaten Pesisir Barat, yang berfungsi sebagai pusat aktivitas wisata bahari di kawasan tersebut. Pantai ini dikenal dengan ombak Samudera Hindia yang konsisten dan menjadi gerbang utama bagi wisatawan yang ingin menjelajahi berbagai spot surfing di sepanjang pesisir Pesisir Barat, termasuk Tanjung Setia dan Way Jambu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9311211003383,
+          -5.190686879740329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "nama": "Pantai Batu Lapis",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Batu Lapis di Kecamatan Bakauheni, Kabupaten Lampung Selatan, terkenal dengan formasi batuan berlapis-lapis yang unik di sepanjang pesisirnya, menciptakan pemandangan geologis yang menarik dan langka. Pantai ini dapat dicapai dengan mudah dari Pelabuhan Bakauheni dan menawarkan pengalaman wisata alam yang berbeda dari pantai berpasir biasa."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.68023699329784,
+          -5.8441432612145805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "nama": "Pantai Minang Rua",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Minang Rua adalah pantai di kawasan Bakauheni, Kabupaten Lampung Selatan, yang menawarkan pemandangan laut Selat Sunda dengan gugusan pulau-pulau kecil di cakrawala. Pantai ini terletak di ujung selatan Provinsi Lampung, tidak jauh dari Pelabuhan Bakauheni yang merupakan pintu gerbang Pulau Sumatera dari Jawa."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.71438133070225,
+          -5.8578974653764675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "nama": "Pantai Wartawan",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Wartawan adalah pantai di Kabupaten Lampung Selatan kawasan Kalianda yang dikenal memiliki panorama laut yang indah dengan latar Gunung Rajabasa. Pantai ini mendapat namanya karena konon sering menjadi tempat bersantai para wartawan, dan kini menjadi destinasi wisata lokal yang populer dengan suasana yang relatif tenang."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.62883200129127,
+          -5.836362424635141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "nama": "Pantai Canti",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Canti di Desa Canti, Kecamatan Rajabasa, Kabupaten Lampung Selatan, adalah dermaga penyeberangan menuju Pulau Sebesi dan titik terdekat ke Gugusan Krakatau dari daratan Lampung. Selain sebagai pelabuhan, kawasan ini memiliki keindahan pantai dengan goa alam dan batu karang, serta menjadi titik awal perjalanan wisata menuju Gunung Anak Krakatau."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.58482213009829,
+          -5.794767334772786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "nama": "Pantai Krui",
+        "alamat": "Kabupaten Pesisir Barat",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Krui adalah pantai utama di Kota Krui, pusat Kabupaten Pesisir Barat, yang menghadap langsung ke Samudera Hindia. Krui dikenal luas di kalangan komunitas surfing dunia berkat kualitas ombaknya yang konsisten, dan kawasan ini memiliki 17 spot surfing yang tersebar di sepanjang pesisirnya, menjadikan Krui salah satu destinasi selancar paling dikenal di Asia Tenggara."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.93143755428707,
+          -5.186018288718338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "nama": "Pantai Walur",
+        "alamat": "Kabupaten Pesisir Barat",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Walur di Kabupaten Pesisir Barat adalah salah satu spot surfing berkualitas di kawasan Krui yang mulai dikenal kalangan peselancar lokal maupun mancanegara. Terletak di selatan Kota Krui, pantai ini menawarkan ombak Samudera Hindia yang menantang dengan suasana yang lebih sepi dan alami dibanding pantai-pantai utama di kawasan Pesisir Barat."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9026122109405,
+          -5.215828330514743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "nama": "Pantai Ketapang",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Ketapang di Kabupaten Pesawaran merupakan kawasan dermaga yang menjadi titik keberangkatan menuju berbagai pulau wisata di Teluk Lampung, termasuk Pulau Pahawang, Pulau Kelagian, dan pulau-pulau lainnya. Dermaga Ketapang adalah gerbang utama wisata bahari Pesawaran, sehingga kawasan ini selalu ramai dengan aktivitas perahu dan wisatawan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.23384812352641,
+          -5.589674037833186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "nama": "Pantai Sebalang",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Sebalang di Kabupaten Lampung Selatan adalah pantai berpasir yang tenang dan cocok untuk wisata keluarga. Pantai ini terletak di kawasan Katibung dan menawarkan suasana pantai yang relatif sepi dibanding pantai-pantai utama Lampung, dengan panorama Teluk Lampung yang indah dan aksesnya yang mudah dari jalan lintas Sumatera."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.37721538884881,
+          -5.5711813988235654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "nama": "Pantai Marina Kalianda",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Marina Kalianda adalah destinasi wisata bahari populer di kawasan Kalianda, Kabupaten Lampung Selatan, yang dikenal dengan formasi batu karang besar yang membentuk 'batas' alami dan menjadi latar foto yang estetik. Pantai ini terletak dekat pusat kota Kalianda dengan fasilitas yang cukup lengkap, termasuk restoran dan penginapan di sekitarnya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.51581198495245,
+          -5.6819489180398275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "nama": "Pantai Batu Mandi",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Batu Mandi di Kabupaten Pesawaran menawarkan panorama pantai dengan batu-batu besar yang menjadi ciri khasnya, tersebar di sepanjang pesisir dan menciptakan pemandangan yang unik. Pantai ini terletak di kawasan barat Pesawaran berdekatan dengan Pantai Klara dan Pantai Bensam, menjadi bagian dari klaster wisata pantai di sisi barat Teluk Lampung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.20093597759134,
+          -5.577559398590841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "nama": "Pantai Gigi Hiu",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Gigi Hiu di Pekon Susuk, Kecamatan Kelumbayan, Kabupaten Tanggamus, terkenal dengan gugusan bebatuan karang raksasa yang menjulang setinggi 1–10 meter dalam formasi yang menyerupai barisan gigi hiu. Pantai ini juga dikenal sebagai 'Pantai Batu Layar' karena beberapa batu karangnya yang mengembang menyerupai layar perahu. Pemandangan sunrise dan sunset di antara batu-batu karang ini sangat memukau dan menjadikannya spot fotografi yang sangat populer."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.05752810826138,
+          -5.7560574027266345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "nama": "Pantai Duta Wisata",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Duta Wisata di Kecamatan Telukbetung, Kota Bandar Lampung, adalah salah satu pantai tertua dan terpopuler di ibu kota Provinsi Lampung. Pantai ini menawarkan berbagai wahana air seperti jet ski, banana boat, snorkeling, dan diving, serta dilengkapi fasilitas lengkap. Letaknya yang strategis di dalam kota membuatnya mudah diakses oleh wisatawan maupun warga lokal."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2524091181829,
+          -5.476696652548926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "nama": "Pantai Batu Kapal",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Batu Kapal di Kabupaten Lampung Selatan mendapat namanya dari formasi batu karang besar yang menyerupai kapal, menjadi daya tarik alam yang unik di kawasan Kalianda. Pantai ini terletak di pesisir timur Lampung Selatan dengan panorama laut yang indah dan suasana yang masih relatif alami, populer sebagai destinasi wisata keluarga di kawasan sekitar Kalianda."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.58385985913128,
+          -5.760681451169893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "nama": "Pantai Pulau Permata",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Pulau Permata di Kota Bandar Lampung adalah destinasi wisata pantai yang terletak di kawasan Telukbetung, menawarkan pemandangan Teluk Lampung dengan gugusan pulau-pulau kecil di kejauhan. Pantai ini menjadi salah satu alternatif wisata pantai bagi warga Bandar Lampung yang ingin menikmati suasana laut tanpa harus menempuh perjalanan jauh."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.25024188421722,
+          -5.485794394258695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "nama": "Pantai Pasir Putih Katibung",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Pasir Putih Katibung di Kecamatan Katibung, Kabupaten Lampung Selatan, adalah pantai berpasir putih yang populer di kalangan wisatawan lokal. Dari pantai ini pengunjung dapat menyeberang dengan perahu kecil menuju Pulau Condong yang ada di depannya. Suasana pantai yang tenang dan harga tiket yang terjangkau menjadikannya destinasi favorit keluarga di Lampung Selatan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.35757652628173,
+          -5.530392335533809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "nama": "Pantai Srengsem KAI",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Srengsem KAI di kawasan Panjang, Kota Bandar Lampung, adalah pantai yang dikelola oleh PT Kereta Api Indonesia dan menjadi destinasi wisata unik karena perpaduan suasana pantai dengan aktivitas pelabuhan dan perkeretaapian di sekitarnya. Pantai ini menawarkan pemandangan Teluk Lampung dengan latar belakang aktivitas industri pelabuhan Panjang."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.32583073094231,
+          -5.491615133524216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "nama": "Pantai Puri Gading",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Puri Gading di Kota Bandar Lampung adalah kawasan resort pantai yang menawarkan fasilitas wisata lengkap di tepi Teluk Lampung. Pantai ini menjadi salah satu destinasi wisata pantai premium di Bandar Lampung dengan berbagai fasilitas akomodasi dan wahana air yang membuatnya populer di kalangan wisatawan yang ingin menikmati liburan pantai dengan kenyamanan lebih."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.25018818432567,
+          -5.470856367024336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "nama": "Pantai Harapan",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Harapan di Kabupaten Tanggamus terletak di kawasan pesisir barat Teluk Semangka dengan suasana yang tenang dan alami. Pantai ini menawarkan pemandangan laut yang indah dengan latar belakang perbukitan Tanggamus, dan menjadi destinasi wisata lokal yang cocok bagi pengunjung yang mencari ketenangan jauh dari keramaian pantai-pantai utama."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.03438097270127,
+          -5.732299667961946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "nama": "Pantai Tiska",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Tiska di kawasan Panjang, Kota Bandar Lampung, adalah destinasi wisata pantai yang mudah diakses dari pusat kota. Pantai ini menawarkan suasana santai di tepi Teluk Lampung dengan berbagai fasilitas wisata dan kuliner seafood yang tersedia di sekitarnya, menjadikannya tempat bersantai yang populer bagi warga Bandar Lampung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.32565507230645,
+          -5.49189905917579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "nama": "Pantai Sukaraja",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Sukaraja di Kota Bandar Lampung terletak di kawasan pesisir Teluk Lampung bagian utara. Pantai ini adalah salah satu pantai perkotaan di Bandar Lampung yang menawarkan pemandangan teluk dengan aktivitas nelayan setempat, memberikan nuansa kehidupan pesisir yang autentik di tengah kota."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.28996167230743,
+          -5.445038908266131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "nama": "Pantai Gunung Kunyit",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Gunung Kunyit di Kota Bandar Lampung mendapat namanya dari Gunung Kunyit yang menjadi latar belakangnya, menciptakan pemandangan unik berupa perpaduan pantai dan perbukitan hijau. Pantai ini terletak di kawasan Sukaraja dan menjadi salah satu destinasi wisata pantai perkotaan di Bandar Lampung dengan panorama yang khas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.28267720187793,
+          -5.447649324786497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "nama": "Pantai Tirtayasa",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Tirtayasa di kawasan Teluk Betung Timur, Kota Bandar Lampung, adalah pantai wisata yang dilengkapi dengan berbagai wahana air seperti jet ski dan banana boat. Pantai ini merupakan salah satu destinasi wisata bahari tertua di Bandar Lampung yang masih aktif dikunjungi warga setempat maupun wisatawan yang singgah di ibu kota Provinsi Lampung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.25309498701506,
+          -5.484288487734497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "nama": "Pantai Laguna Helau",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Laguna Helau di kawasan Kalianda, Kabupaten Lampung Selatan, menawarkan pemandangan laguna yang indah dengan perairan yang relatif tenang dan airnya yang jernih. 'Helau' dalam bahasa Lampung berarti cantik atau indah, dan pantai ini memang menyuguhkan panorama alam yang memukau dengan pasir putih dan perairan biru kehijauan yang menjadi daya tarik wisatawan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.55652371323147,
+          -5.698594937268539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "nama": "Pantai Belebuk",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Belebuk di kawasan Bakauheni, Kabupaten Lampung Selatan, terletak di sisi timur ujung selatan Provinsi Lampung dekat Pelabuhan Bakauheni. Pantai ini menawarkan pemandangan Selat Sunda dengan aktivitas kapal feri yang lalu-lalang sebagai latar yang unik, serta panorama ke arah Pulau Jawa di kejauhan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.69834645340049,
+          -5.848367206753482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "nama": "Pantai Tembakak",
+        "alamat": "Kabupaten Pesisir Barat",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Tembakak di Kabupaten Pesisir Barat adalah salah satu pantai di ujung utara kawasan pesisir barat Lampung yang menghadap langsung ke Samudera Hindia. Pantai ini menawarkan suasana yang masih alami dan sepi dengan panorama laut lepas yang luas, cocok bagi wisatawan yang mencari pengalaman pantai yang belum banyak terjamah."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85773544083047,
+          -5.108877824463639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "nama": "Pantai Melasti",
+        "alamat": "Kabupaten Pesisir Barat",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Melasti di Kabupaten Pesisir Barat adalah pantai di kawasan selatan Pesisir Barat yang menawarkan keindahan alam pesisir Samudera Hindia yang masih terjaga. Pantai ini memiliki karakter ombak Samudera Hindia yang khas dan menjadi bagian dari kawasan wisata surfing di Pesisir Barat yang kini semakin berkembang."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06246595276286,
+          -5.385365016288016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "nama": "Pantai Mutiara Baru",
+        "alamat": "Kabupaten Lampung Timur",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Mutiara Baru di Kabupaten Lampung Timur adalah pantai di pesisir timur Provinsi Lampung yang menghadap ke Selat Sunda bagian utara. Pantai ini menawarkan suasana pesisir yang masih alami dengan panorama laut dan aktivitas nelayan setempat, menjadi destinasi wisata alternatif di kawasan Lampung Timur."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82139228856558,
+          -5.4323149449823696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "nama": "Pantai Dewi Mandapa",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Dewi Mandapa di Kecamatan Padang Cermin, Kabupaten Pesawaran, menawarkan panorama alam yang memukau dengan hutan mangrove yang sengaja ditanam untuk menahan gelombang laut. Pantai ini memiliki berbagai spot foto ikonik seperti 'Pulau Cinta' dan 'Balkon Cinta', serta garis pantai yang cukup panjang dengan hamparan pasir putih yang indah."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.24369946520454,
+          -5.5724023837238885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "nama": "Pantai Kedu Warna",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Kedu Warna di kawasan Kalianda, Kabupaten Lampung Selatan, adalah pantai yang populer di kalangan anak muda berkat berbagai spot foto instagramable seperti Dermaga Asmara dan gazebo-gazebo bambu yang estetik. Pantai ini menawarkan pemandangan laut dengan warna air yang beragam, dari biru tua hingga hijau toska, sesuai namanya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.57746202359552,
+          -5.7178476103054665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "nama": "Pantai Bagus",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Bagus di Kalianda, Kabupaten Lampung Selatan, adalah pantai berpasir putih lembut yang dikelilingi batuan karang dengan suasana yang tenang dan cocok untuk berenang dan bersantai. Pantai ini menawarkan air laut yang jernih dengan pemandangan ke arah Teluk Lampung dan pulau-pulau kecil di sekitarnya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.55585955848039,
+          -5.6674588944197515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "nama": "Pantai Setigi Heni",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Setigi Heni di Kabupaten Lampung Selatan adalah pantai di kawasan Rajabasa yang menawarkan pemandangan laut Teluk Lampung dengan suasana yang masih cukup alami. Pantai ini menjadi salah satu destinasi wisata lokal di kawasan selatan Lampung Selatan yang berdekatan dengan jalur menuju Pelabuhan Canti dan Pulau Sebesi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.58130913894882,
+          -5.789993792988546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "nama": "Pantai Ketang",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Ketang di kawasan Kalianda, Kabupaten Lampung Selatan, adalah pantai yang terletak di antara klaster pantai-pantai populer di kawasan Kalianda. Pantai ini menawarkan suasana pesisir yang tenang dengan pasir dan panorama laut Teluk Lampung yang indah, sering menjadi bagian dari perjalanan wisata pantai-hopping di kawasan Kalianda."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.56825088044054,
+          -5.711277945264476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "nama": "Pantai Cemara",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Cemara di kawasan Kalianda, Kabupaten Lampung Selatan, mendapat namanya dari pohon cemara yang tumbuh di sepanjang garis pantainya, menciptakan suasana yang teduh dan rindang. Pantai ini menawarkan pemandangan laut yang indah dan suasana yang tenang, menjadi alternatif destinasi wisata keluarga di kawasan Kalianda."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.52966439551929,
+          -5.686218843573986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "nama": "Pantai Cemara Indah",
+        "alamat": "Kabupaten Lampung Timur",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Cemara Indah di Kabupaten Lampung Timur adalah pantai di pesisir timur Lampung yang menghadap ke Selat Sunda. Seperti namanya, pantai ini memiliki deretan pohon cemara yang memberikan nuansa rindang dan sejuk, dengan panorama laut yang terbuka dan suasana yang masih relatif alami."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82188327342755,
+          -5.420243245514103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "nama": "Pantai Kerang Mas",
+        "alamat": "Kabupaten Lampung Timur",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Kerang Mas di Kabupaten Lampung Timur adalah pantai di kawasan pesisir timur Lampung yang dikenal dengan kerang-kerang laut yang banyak ditemukan di sepanjang pantainya. Pantai ini menawarkan pemandangan laut terbuka dengan aktivitas nelayan setempat dan suasana pesisir yang khas Lampung Timur."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.81907441113243,
+          -5.371560194718107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "nama": "Pantai Mbeach",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Mbeach di kawasan Katibung, Kabupaten Lampung Selatan, adalah pantai yang populer di kalangan wisatawan muda Lampung dengan berbagai fasilitas wisata modern. Pantai ini menawarkan suasana pantai yang nyaman dengan berbagai pilihan kuliner dan wahana air, menjadikannya salah satu destinasi pantai hits di kawasan Lampung Selatan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.5409560542683,
+          -5.667047409282778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "nama": "Pantai Aruna",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Aruna di kawasan Katibung, Kabupaten Lampung Selatan, adalah pantai wisata yang menawarkan pengalaman berlibur di tepi laut dengan berbagai fasilitas yang ramah pengunjung. Pantai ini terletak berdekatan dengan Pantai Mbeach dan menjadi bagian dari klaster destinasi wisata pantai yang berkembang di kawasan Katibung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.54512448773255,
+          -5.667675418180508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "nama": "Pantai Semukuk",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Semukuk di kawasan Rajabasa, Kabupaten Lampung Selatan, adalah pantai yang terletak di selatan Kalianda dengan panorama Teluk Lampung yang indah dan latar belakang Gunung Rajabasa yang menjulang. Pantai ini menawarkan suasana yang tenang dan masih alami, menjadi destinasi wisata yang cocok bagi pengunjung yang mencari ketenangan di tepi laut."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.58337880486557,
+          -5.761009141094563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "nama": "Pantai Kahai",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Kahai di kawasan Kalianda, Kabupaten Lampung Selatan, adalah pantai yang berada di sisi selatan kawasan Kalianda, tidak jauh dari jalur menuju Pelabuhan Bakauheni. Pantai ini menawarkan pemandangan Selat Sunda dengan suasana yang tenang dan panorama ke arah pulau-pulau di perairan selatan Lampung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.66748406963852,
+          -5.836513071029022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "nama": "Teluk Kiluan",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "pantai",
+        "deskripsi": "Teluk Kiluan di Kecamatan Kelumbayan, Kabupaten Tanggamus, adalah salah satu destinasi wisata bahari paling terkenal di Lampung berkat populasi lumba-lumba hidung botol (Tursiops truncatus) liar yang besar. Wisatawan biasanya bermalam di teluk ini untuk menyaksikan kawanan lumba-lumba dari jukung (perahu kecil tradisional) di pagi hari. Selain dolphin watching, Teluk Kiluan juga menawarkan snorkeling, diving, dan pemandangan alam pesisir yang memukau."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.10327491878448,
+          -5.77652596876675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "nama": "Pantai Laguna",
+        "alamat": "Kabupaten Pesisir Barat",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Laguna di Kabupaten Pesisir Barat adalah pantai di kawasan paling utara pesisir barat Lampung yang menawarkan keindahan alam pantai Samudera Hindia yang masih sangat alami dan jarang dikunjungi wisatawan. Pantai ini memberikan pengalaman menikmati pesisir Sumatera yang masih terjaga kealamiannya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.53269928623556,
+          -4.91643207418794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "nama": "Pantai Pasir Putih Teluk Kiluan",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Pasir Putih Teluk Kiluan di Kabupaten Tanggamus adalah hamparan pasir putih yang terletak di kawasan Teluk Kiluan, tidak jauh dari titik utama dolphin watching. Pantai berpasir putih ini memberikan kontras yang indah dengan warna laut biru Kiluan dan menjadi tempat bersantai wisatawan setelah aktivitas menonton lumba-lumba di pagi hari."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.11752338925756,
+          -5.77478722658079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "nama": "Pulau Kelapa Teluk Kiluan",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "pantai",
+        "deskripsi": "Pulau Kelapa Teluk Kiluan adalah pulau kecil bervegetasi pohon kelapa yang terletak di tengah Teluk Kiluan, Kabupaten Tanggamus. Pulau ini menjadi landmark ikonik Teluk Kiluan dan sering menjadi latar foto wisatawan. Pulau ini dapat dicapai dengan jukung (perahu kecil) dari dermaga Kiluan dan menawarkan pemandangan teluk yang indah dari segala sudut."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.09325278720974,
+          -5.781405213360697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "nama": "Pantai Karang Putih Cukuh Balak",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Karang Putih Cukuh Balak di kawasan Cukuh Balak, Kabupaten Tanggamus, mendapat namanya dari formasi karang berwarna putih yang menghiasi pesisirnya. Pantai ini berada di kawasan Teluk Semangka dan menawarkan pemandangan laut yang bersih dengan suasana yang masih sangat alami dan belum banyak dikunjungi wisatawan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.88577385323427,
+          -5.662495531459883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "nama": "Pantai Karang Bebai",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Karang Bebai di Kabupaten Tanggamus terletak di kawasan pesisir Cukuh Balak yang menghadap Teluk Semangka. Pantai ini menawarkan formasi karang yang menarik dan perairan yang jernih, menjadi destinasi wisata alam yang cocok bagi pengunjung yang ingin menjelajahi pantai-pantai tersembunyi di kawasan Tanggamus."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.90539720824746,
+          -5.675795719049005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "nama": "Pantai Bidadari Putih",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Bidadari Putih di Kabupaten Tanggamus adalah pantai berpasir putih di kawasan Cukuh Balak yang menghadap Samudera Hindia. Nama 'Bidadari Putih' mencerminkan keindahan alami pantai ini dengan hamparan pasir putih bersih dan air laut yang jernih, menjadikannya salah satu pantai tersembunyi yang indah di kawasan Tanggamus."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.8510660235815,
+          -5.636934964559624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "nama": "Pantai Karang Bolong",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Karang Bolong di kawasan Limau, Kabupaten Tanggamus, mendapat namanya dari formasi batu karang yang berlubang atau 'bolong', menciptakan pemandangan geologis yang unik. Pantai ini terletak di kawasan pesisir barat Tanggamus dan menawarkan keindahan alam karang serta panorama laut yang masih sangat alami."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.78881800178549,
+          -5.6104238705573195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "nama": "Pantai Muara Indah Kota Agung",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Muara Indah Kota Agung terletak di tepi Teluk Semangka, tidak jauh dari pusat kota Kota Agung, ibu kota Kabupaten Tanggamus. Pantai ini menawarkan pemandangan Teluk Semangka yang luas dengan latar belakang perbukitan Tanggamus dan Gunung Tanggamus yang menjulang, menciptakan panorama alam yang memukau di area yang mudah diakses."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.61825552499103,
+          -5.498171933542309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "nama": "Pantai Terbaya",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Terbaya di Kota Agung, Kabupaten Tanggamus, adalah pantai di tepi Teluk Semangka yang terletak di dekat pusat kota Kota Agung. Pantai ini menjadi tempat favorit warga setempat untuk bersantai sambil menikmati pemandangan teluk dan sunset yang indah di ufuk barat Teluk Semangka."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.63647096958141,
+          -5.505230411837031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "nama": "Pantai Teluk Paku",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Teluk Paku di Kabupaten Tanggamus adalah pantai yang berada di kawasan pesisir Tanggamus antara Kota Agung dan Teluk Kiluan. Pantai ini menawarkan suasana pesisir yang masih alami dengan panorama Samudera Hindia yang terbuka dan karakteristik ombak yang cocok bagi penggemar olahraga air."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.98907519356408,
+          -5.712488995337048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "nama": "Pantai Way Jambu",
+        "alamat": "Kabupaten Pesisir Barat",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Way Jambu di Kabupaten Pesisir Barat, yang juga dikenal sebagai 'Sumatra Pipeline', adalah spot surfing berstandar dunia yang dijuluki 'World Class Left Reef Break'. Ombaknya yang membentuk barrel spektakuler sepanjang hingga 150 meter hampir menyamai kualitas Pipeline Hawaii dan Mentawai, menjadikannya destinasi wajib bagi peselancar profesional dari seluruh dunia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03169800989392,
+          -5.34619941632604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "nama": "Pantai Mandiri Krui",
+        "alamat": "Kabupaten Pesisir Barat",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Mandiri Krui di Kabupaten Pesisir Barat adalah pantai di kawasan selatan Kota Krui yang menawarkan ombak Samudera Hindia berkualitas untuk aktivitas surfing. Pantai ini menjadi salah satu dari 17 spot surfing yang tersebar di kawasan Pesisir Barat dan mulai dikenal di kalangan komunitas surfing sebagai alternatif dari Tanjung Setia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.97244819366131,
+          -5.251024523585374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "nama": "Pantai Tanjung Tua",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Tanjung Tua di ujung selatan Kabupaten Lampung Selatan, dekat Pelabuhan Bakauheni, adalah pantai yang menghadap langsung ke Selat Sunda dan menawarkan pemandangan lalu lintas kapal feri yang melintasi perairan tersempit antara Jawa dan Sumatera. Pantai ini berada di lokasi yang strategis dan memiliki nilai historis sebagai salah satu titik paling selatan Pulau Sumatera."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.71744865413196,
+          -5.906298158318121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "nama": "Pantai Labuhan Saka",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Labuhan Saka di kawasan Rajabasa, Kabupaten Lampung Selatan, adalah pantai yang terletak di dekat kawasan dermaga Labuhan Saka. Pantai ini menawarkan pemandangan Teluk Lampung dengan Gunung Rajabasa sebagai latar belakang yang megah, dan menjadi salah satu destinasi wisata di kawasan selatan Lampung Selatan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.64739986258152,
+          -5.836097484845186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "nama": "Pulau Mengkudu",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pulau Mengkudu di kawasan Rajabasa, Kabupaten Lampung Selatan, adalah pulau kecil di Teluk Lampung yang dapat dicapai dengan perahu dari dermaga sekitar Kalianda. Pulau ini menawarkan keindahan pantai yang masih alami dengan pasir putih dan perairan jernih, serta pemandangan ke arah Gunung Rajabasa dan gugusan pulau-pulau di Selat Sunda."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.68447094692782,
+          -5.847790609483773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "nama": "Pantai Badak Limau",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Badak Limau di kawasan Limau, Kabupaten Tanggamus, adalah pantai di pesisir barat Tanggamus yang menghadap ke perairan antara Teluk Semangka dan Samudera Hindia. Pantai ini masih tergolong tersembunyi dan belum banyak dikunjungi, menawarkan keindahan alam pesisir yang masih sangat alami dengan panorama laut yang terbuka."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.82395671412536,
+          -5.62099025449664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "nama": "Pantai Batu Kebau Pihabung",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Batu Kebau Pihabung di Kabupaten Tanggamus adalah pantai di kawasan Kota Agung Utara yang dicirikan oleh batu-batu besar menyerupai kerbau (kebau dalam bahasa Lampung) yang tersebar di sekitar pantainya. Formasi batuan unik ini menciptakan pemandangan yang menarik dan menjadi daya tarik utama pantai ini."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.69851879287984,
+          -5.51908557723417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "nama": "Pantai Tanjung Agung",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Tanjung Agung di kawasan Kota Agung Barat, Kabupaten Tanggamus, adalah pantai di tepi Teluk Semangka yang menawarkan pemandangan laut yang luas dengan suasana yang tenang. Pantai ini menjadi salah satu destinasi wisata pantai di kawasan Kota Agung yang dapat dinikmati bersama panorama Gunung Tanggamus di kejauhan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.56050503890101,
+          -5.511928877911299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "nama": "Pantai Cukuh Batu",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Cukuh Batu di kawasan Kota Agung, Kabupaten Tanggamus, mendapat namanya dari formasi batu-batu yang mencuat di sekitar pantainya. Pantai ini berada di kawasan pesisir Kota Agung dengan panorama Teluk Semangka yang indah dan suasana yang cocok untuk wisata keluarga."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.62737560026267,
+          -5.503216476796248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "nama": "Pantai Ketapang Bahari",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Ketapang Bahari di Kabupaten Pesawaran terletak berdekatan dengan Dermaga Ketapang yang menjadi titik penyeberangan utama menuju pulau-pulau wisata Pesawaran. Kawasan ini menawarkan pemandangan aktivitas maritim yang sibuk dengan kapal-kapal yang berlayar menuju Pahawang dan pulau-pulau lainnya, serta berbagai pilihan kuliner seafood di sekitar dermaga."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.23381960401537,
+          -5.590749445948339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 68,
+        "nama": "Pantai Mahitam",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Mahitam di Kabupaten Pesawaran adalah pantai yang menghadap ke perairan Teluk Lampung, berdekatan dengan Pantai Ketapang Bahari. Pantai ini menawarkan pemandangan laut yang tenang dengan pasir putih dan perairan yang cocok untuk berenang, menjadi bagian dari klaster destinasi wisata bahari di kawasan Pesawaran."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.24231357723686,
+          -5.5915602742027755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "nama": "Pantai Bensam",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Bensam di Kabupaten Pesawaran adalah pantai berdampingan dengan Pantai Batu Mandi di kawasan barat Pesawaran. Pantai ini menawarkan suasana yang lebih tenang dan alami dibanding pantai-pantai utama Pesawaran, dengan perairan yang cocok untuk berenang dan bersantai sambil menikmati pemandangan Teluk Lampung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.20044159050012,
+          -5.578358648871568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "nama": "Teluk Hantu",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pantai",
+        "deskripsi": "Teluk Hantu di Kabupaten Pesawaran adalah kawasan teluk yang terletak di sisi selatan Pesawaran, berbatasan dengan perairan Selat Sunda. Nama 'Teluk Hantu' mencerminkan karakter kawasan ini yang memiliki arus dan kondisi laut yang tidak terduga, namun menawarkan pemandangan alam pesisir yang menakjubkan bagi wisatawan yang berani menjelajahinya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.21409428496848,
+          -5.774830995367869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "nama": "Pantai Klara 2",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Klara 2 di Kabupaten Pesawaran adalah pantai yang merupakan pengembangan dari kawasan Pantai Klara, menawarkan suasana yang lebih sepi dan alami dibanding Klara 1. Seperti saudaranya, Klara 2 juga dicirikan oleh deretan pohon kelapa yang rapat di sepanjang pantainya dengan pasir putih dan perairan yang jernih."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.21832385425388,
+          -5.583424616352757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "nama": "Pantai Gracia Panjang",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Gracia Panjang di kawasan Panjang, Kota Bandar Lampung, adalah pantai wisata yang terletak di kawasan industri Panjang. Pantai ini menawarkan pemandangan Teluk Lampung dengan aktivitas kapal-kapal besar yang berlabuh di Pelabuhan Panjang sebagai latar yang unik, memberikan nuansa tersendiri yang berbeda dari pantai-pantai wisata biasa."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.33470213889983,
+          -5.50498864667112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "nama": "Dermaga Kasih / Senja Malaka",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "pantai",
+        "deskripsi": "Dermaga Kasih / Senja Malaka di kawasan Panjang, Kota Bandar Lampung, adalah destinasi wisata dermaga yang populer untuk menikmati pemandangan sunset di atas Teluk Lampung. Dermaga ini menjadi spot foto favorit warga Bandar Lampung untuk mengabadikan momen senja dengan siluet kapal-kapal di latar belakang."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.32165768491859,
+          -5.483779350048206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "nama": "Pantai Ancolgen",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Ancolgen di Kota Bandar Lampung adalah destinasi wisata pantai yang menawarkan suasana santai di tepi Teluk Lampung. Pantai ini dilengkapi dengan berbagai fasilitas hiburan dan kuliner yang membuatnya menjadi tempat bersantai yang populer bagi warga Bandar Lampung, terutama pada akhir pekan dan hari libur."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.26765661003469,
+          -5.455952227988765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "nama": "Pantai Rio",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pantai",
+        "deskripsi": "Pantai Rio di kawasan Kalianda, Kabupaten Lampung Selatan, adalah pantai yang terletak di kawasan Katibung dengan suasana yang relatif tenang dan alami. Pantai ini menawarkan pemandangan Teluk Lampung dengan pasir dan perairan yang cocok untuk berenang, menjadi salah satu destinasi wisata pantai alternatif di kawasan Kalianda."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.506812638142,
+          -5.673256433962733
+        ]
+      }
+    }
+  ]
+}

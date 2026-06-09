@@ -1,0 +1,311 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "nama": "Pulau Sebesi",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pulau_bahari",
+        "deskripsi": "Pulau Sebesi adalah satu-satunya pulau berpenghuni di sekitar Gugusan Krakatau, terletak di Selat Sunda dan merupakan daratan terdekat dengan Gunung Anak Krakatau. Berbentuk gunung berapi dengan puncak Gunung Sebesi setinggi 844 mdpl, pulau seluas 1.600 hektar ini menjadi saksi letusan dahsyat Krakatau tahun 1883. Perairannya dikelilingi terumbu karang hingga kedalaman 10 meter yang menjadi rumah bagi 168 spesies ikan dari 28 famili, menjadikannya surga snorkeling dan diving."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.49022248855186,
+          -5.9408033507416285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "nama": "Pulau Sebuku",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pulau_bahari",
+        "deskripsi": "Pulau Sebuku adalah salah satu pulau besar di Selat Sunda dengan luas 17,71 km² yang kini tidak berpenghuni. Pulau ini berada di gugusan perairan Lampung Selatan dekat Krakatau, dan pada tahun 1920-an sempat menjadi penghasil kopra (kelapa kering) yang cukup besar. Letusan Gunung Krakatau tahun 1883 meluluhlantakkan desa di sisi timur Pulau Sebuku Kecil dan menewaskan ratusan penduduk. Kini Sebuku menjadi destinasi snorkeling favorit berkat pasir putih dan perairan jernihnya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.5077016280129,
+          -5.876570723179959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "nama": "Pulau Legundi",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pulau_bahari",
+        "deskripsi": "Pulau Legundi terletak di Selat Sunda pada ujung barat Teluk Lampung, secara administratif masuk wilayah Punduh Pidada, Pesawaran. Pulau ini berpenduduk sangat sedikit (sekitar 80 jiwa per km²) sehingga hutan hijau tropis dan semi-gugur di dalamnya tetap terjaga dengan baik. Secara historis, Legundi pernah menjadi basis para penyelundup lada pada era kolonial Belanda yang menjual hasil bumi dari Krui ke Bengkulu. Pulau ini memiliki pantai berpasir putih dengan air laut yang jernih."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.28015415101149,
+          -5.820607903780339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "nama": "Pulau Tangkil",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pulau_bahari",
+        "deskripsi": "Pulau Tangkil adalah pulau kecil yang terletak sekitar 600 meter dari Pantai Mutun, hanya 15 km dari pusat Kota Bandar Lampung. Aksesnya yang mudah dan tiket masuk yang terjangkau menjadikan pulau ini destinasi wisata akhir pekan yang populer bagi warga Lampung. Pulau ini dikelola sebagai Tangkil Resort, dilengkapi fasilitas penyewaan tenda untuk berkemah, dan menawarkan suasana pantai tropis dengan perairan tenang yang cocok untuk berenang dan bersantai."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.27111836613545,
+          -5.512617141798267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "nama": "Pulau Condong",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pulau_bahari",
+        "deskripsi": "Pulau Condong adalah pulau kecil di perairan Pesawaran yang dapat dicapai dengan perahu kecil dari Pantai Pasir Putih Katibung. Pulau ini menawarkan keindahan laut yang masih alami dengan pasir putih dan perairan jernih yang cocok untuk snorkeling. Keberadaannya yang relatif tidak terlalu ramai menjadikannya pilihan destinasi bagi wisatawan yang mencari suasana tenang dan eksklusif di Teluk Lampung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3428385237543,
+          -5.561203494649479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "nama": "Pulau Pisang",
+        "alamat": "Kabupaten Pesisir Barat",
+        "kategori": "pulau_bahari",
+        "deskripsi": "Pulau Pisang adalah pulau yang sekaligus menjadi nama sebuah kecamatan di Kabupaten Pesisir Barat, Lampung, berbatasan langsung dengan Samudera Hindia di sisi selatan. Pulau ini terkenal dengan pantai pasir putih bersih, barisan pohon kelapa, dan air laut biru jernih yang masih alami dan relatif sepi. Selain keindahan alam, Pulau Pisang juga menawarkan kesempatan dolphin watching, surfing di sisi yang berbatasan langsung dengan Samudera Hindia, serta kekayaan budaya lokal yang menarik wisatawan mancanegara."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84739151906868,
+          -5.118801370656719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "nama": "Pulau Tabuan",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "pulau_bahari",
+        "deskripsi": "Pulau Tabuan terletak di tengah pintu masuk Teluk Semangka, Kecamatan Cukuh Balak, Kabupaten Tanggamus. Pulau ini relatif curam dan berhutan lebat, dengan bagian tenggara mencapai ketinggian 671 mdpl. Permukiman utamanya adalah Pekon Sawang Balak di ujung utara pulau. Pulau Tabuan dikenal dengan pantai pasir putih dan spot snorkeling yang kaya terumbu karang, meski akses internet dan telepon masih sangat terbatas di pulau ini."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.82393225142002,
+          -5.807560161396181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "nama": "Teluk Kiluan (dolphin watching)",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "pulau_bahari",
+        "deskripsi": "Teluk Kiluan di Kabupaten Tanggamus adalah salah satu destinasi wisata bahari paling terkenal di Lampung, dikenal sebagai habitat lumba-lumba liar dalam jumlah besar. Wisatawan biasanya bermalam di teluk ini untuk berburu momen menyaksikan kawanan lumba-lumba hidung botol (Tursiops truncatus) di pagi hari menggunakan jukung (perahu kecil). Selain dolphin watching, Teluk Kiluan juga menawarkan snorkeling, diving, dan pemandangan alam pesisir yang memukau dengan Pulau Kelapa di tengah teluk."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.1031947182271,
+          -5.776578564588012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "nama": "Pulau Mahitam",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pulau_bahari",
+        "deskripsi": "Pulau Mahitam adalah pulau kecil di perairan Pesawaran yang terletak tidak jauh dari kawasan wisata Pantai Ketapang dan Sari Ringgung. Pulau ini menawarkan pemandangan bawah laut yang indah dengan terumbu karang yang masih terjaga, menjadikannya spot snorkeling yang disukai wisatawan. Letaknya yang berdekatan dengan klaster pulau-pulau wisata Pesawaran lainnya membuatnya sering masuk dalam paket wisata island hopping di kawasan Teluk Lampung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.24621249686477,
+          -5.594810118388789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "nama": "Pulau Rimau (Rimaubalak)",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pulau_bahari",
+        "deskripsi": "Pulau Rimau atau Rimaubalak adalah pulau di perairan Lampung Selatan bagian timur, dekat kawasan Kalianda. Nama 'Rimau' berasal dari bahasa Melayu yang berarti harimau, mencerminkan nuansa liar dan alami dari pulau ini. Pulau ini masih relatif belum banyak terjamah wisatawan sehingga ekosistem pesisirnya masih terjaga, menawarkan pantai yang tenang dan perairan yang masih alami bagi pengunjung yang mencari suasana eksklusif."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.78195541958787,
+          -5.857938293743708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "nama": "Pulau Kelagian Besar",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pulau_bahari",
+        "deskripsi": "Pulau Kelagian Besar adalah salah satu dari dua pulau Kelagian di perairan Pesawaran, berdekatan dengan Pulau Pahawang. Hanya 20 menit dari Dermaga Ketapang, pulau ini populer di kalangan wisatawan keluarga karena perairannya dangkal dan tenang, sangat cocok untuk snorkeling pemula. Kelagian Besar dan Kelagian Kecil bersama Pulau Pahawang membentuk klaster wisata bahari terpopuler di Lampung yang sering dijuluki 'Raja Ampat-nya Lampung'."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.22473590391719,
+          -5.629277730728491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "nama": "Pulau Kelagian Kecil",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pulau_bahari",
+        "deskripsi": "Pulau Kelagian Kecil (juga disebut Kelagian Lunik) adalah pulau mungil berpasir putih di perairan Pesawaran yang berdampingan dengan Kelagian Besar. Pulau ini sangat diminati wisatawan karena hamparan pasir putih yang lembut, air laut jernih berwarna biru kehijauan, serta latar belakang bukit dan gunung yang menambah keindahan panoramanya. Spot foto di pulau ini sangat populer dan kerap menjadi bagian dari paket wisata island hopping Pahawang."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.23238254865605,
+          -5.644116588734357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "nama": "Pulau Umang Umang",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pulau_bahari",
+        "deskripsi": "Pulau Umang-Umang adalah pulau kecil di perairan Lampung Selatan yang berada dalam gugusan pulau-pulau dekat Krakatau, berdekatan dengan Pulau Sebesi dan Sebuku. Pulau ini termasuk dalam tiga pulau di kawasan Kalianda yang menawarkan pemandangan langsung ke arah Gunung Anak Krakatau. Perairannya yang masih alami menjadikan Umang-Umang sebagai salah satu destinasi wisata bahari yang sedang berkembang di kawasan Lampung Selatan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.51476737497126,
+          -5.929799234808247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "nama": "Pulau Tegal",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pulau_bahari",
+        "deskripsi": "Pulau Tegal adalah pulau kecil di Teluk Lampung, Pesawaran, yang sering disebut 'ala Maldives'-nya Lampung karena keindahan pantai berpasir putih dan perairan biru jernih yang memukau. Pulau ini cocok dikunjungi bersama pasangan, teman, maupun keluarga yang ingin menikmati pengalaman liburan bahari yang eksklusif. Lokasinya berdekatan dengan klaster pulau-pulau wisata lainnya di Pesawaran seperti Pahawang dan Kelagian."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.27534310686755,
+          -5.568478336043231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "nama": "Pulau Siuncal",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pulau_bahari",
+        "deskripsi": "Pulau Siuncal adalah pulau kecil di perairan Lampung Selatan yang berada di kawasan Teluk Lampung bagian selatan. Pulau ini masih relatif belum banyak dikenal wisatawan umum, menawarkan kealamian ekosistem pesisir yang masih terjaga baik. Perairan di sekitar Pulau Siuncal menyimpan potensi wisata bahari seperti snorkeling dan diving bagi wisatawan yang ingin menjelajahi destinasi yang lebih sepi dan alami."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.32478747603797,
+          -5.807389324760129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "nama": "Pulau Krakatau Kecil",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "pulau_bahari",
+        "deskripsi": "Pulau Krakatau Kecil (Pulau Panjang) adalah bagian dari Gugusan Kepulauan Krakatau di Selat Sunda, bersama Pulau Rakata, Pulau Sertung, dan Anak Krakatau. Gugusan Krakatau terkenal di seluruh dunia akibat letusan maha dahsyatnya pada 27 Agustus 1883 yang mengakibatkan tsunami besar dan menewaskan lebih dari 36.000 jiwa. Kawasan ini berstatus Cagar Alam yang dilindungi dan secara administratif masuk wilayah Kabupaten Lampung Selatan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.4587484269444,
+          -6.0955332802935045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "nama": "Snorkeling Spot Pahawang Besar",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pulau_bahari",
+        "deskripsi": "Pulau Pahawang Besar adalah pulau terbesar di kawasan Teluk Ratai, Pesawaran, dan merupakan destinasi wisata bahari paling populer di Lampung. Pulau ini terkenal dengan keindahan bawah lautnya yang memukau, terutama spot snorkeling 'Taman Nemo' dengan ikan badut dan terumbu karang warna-warni. Pahawang Besar memiliki penginapan dan penduduk tetap, menjadikannya titik utama paket wisata island hopping bersama Pulau Kelagian dan Pahawang Kecil."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.22773561165293,
+          -5.671966321352283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "nama": "Pulau Lunik",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "pulau_bahari",
+        "deskripsi": "Pulau Lunik adalah pulau kecil di perairan selatan Kabupaten Pesawaran, Lampung. 'Lunik' dalam bahasa Lampung berarti kecil, mencerminkan ukuran pulau yang mungil ini. Pulau ini menawarkan ketenangan alam pesisir yang masih alami, dengan perairan yang cocok untuk berenang dan snorkeling. Lokasinya di kawasan Punduh Pidada menjadikannya bagian dari gugusan pulau-pulau wisata bahari di selatan Pesawaran."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.17348358198213,
+          -5.740130518947627
+        ]
+      }
+    }
+  ]
+}

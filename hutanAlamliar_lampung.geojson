@@ -1,0 +1,345 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "nama": "Taman Nasional Way Kambas (Gerbang PLG)",
+        "alamat": "Kabupaten Lampung Timur",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Taman Nasional Way Kambas (TNWK) adalah taman nasional perlindungan gajah yang terletak di daerah Lampung, tepatnya di Kecamatan Labuhan Ratu, Lampung Timur, Indonesia. Didirikan pada tahun 1985, kawasan ini merupakan sekolah gajah pertama di Indonesia, awalnya bernama Pusat Latihan Gajah (PLG) dan kemudian berubah menjadi Pusat Konservasi Gajah (PKG) yang berfokus pada penjinakan, pelatihan, perkembangbiakan, dan konservasi gajah. TNWK ditetapkan sebagai kawasan Taman Warisan ASEAN (ASEAN Heritage Park). Kawasannya memiliki lima tipe ekosistem utama: hutan hujan dataran rendah, rawa, hutan bakau, pantai, dan ekosistem riparian."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.65,
+          -5.0667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "nama": "Taman Nasional Bukit Barisan Selatan - Resort Sukaraja Atas",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Taman Nasional Bukit Barisan Selatan (TNBBS) adalah taman nasional yang melindungi hutan hujan tropis pulau Sumatra dan telah ditetapkan UNESCO sebagai Warisan Dunia dalam Warisan Hutan Hujan Tropis Sumatra. TNBBS memiliki hutan dataran rendah Sumatra yang terakhir dilindungi dan kaya keanekaragaman hayati. Taman ini menjadi habitat bagi tiga mamalia besar terancam: gajah Sumatra (kurang dari 2.000 ekor), badak Sumatra (sekitar 300 individu), dan harimau Sumatra (sekitar 400 individu)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.52,
+          -5.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "nama": "Taman Nasional Bukit Barisan Selatan - Enclave Kubu Perahu",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Enclave Kubu Perahu merupakan bagian dalam kawasan Taman Nasional Bukit Barisan Selatan yang terletak di Kabupaten Lampung Barat. Kawasan ini merupakan area penyangga dengan keanekaragaman hayati tinggi yang menghubungkan ekosistem hutan dataran rendah dan perbukitan. Tersedia jalur tracking dan camping ground bagi pengunjung yang ingin mengeksplorasi keindahan alam taman nasional."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.98,
+          -5.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "nama": "Taman Nasional Bukit Barisan Selatan - TWA Pemerihan",
+        "alamat": "Kabupaten Pesisir Barat",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "TWA (Taman Wisata Alam) Pemerihan adalah kawasan dalam kawasan Taman Nasional Bukit Barisan Selatan yang terletak di Kabupaten Pesisir Barat. Menyawarkan keindahan alam berupa pemandangan hutan tropis dan sumber air jernih yang cocok untuk ekowisata. Kawasan ini memiliki potensi flora dan fauna endemik Sumatra yang perlu dilestarikan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.35,
+          -5.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "nama": "Taman Nasional Bukit Barisan Selatan - Kawasan Suoh",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Kawasan Suoh merupakan bagian dari Taman Nasional Bukit Barisan Selatan di Kabupaten Lampung Barat. Dikenal dengan aktivitas vulkanik masa lalu yang menciptakan bentang alam unik seperti kawah dan danau kawah. Kawasan ini juga dikenal dengan pemandangan alam yang spektakuler dan cocok untuk penelitian geologi serta konservasi alam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.15,
+          -5.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "nama": "Tahura Wan Abdul Rachman - Zona Inti",
+        "alamat": "Kabupaten Pesawaran / Kota Bandar Lampung",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Taman Hutan Raya Wan Abdul Rachman adalah kawasan hutan besar di Provinsi Lampung yang didirikan berdasarkan Keputusan Menteri Kehutanan No. 742/KPTS-VI/1992 pada tanggal 21 Juli 1992. Kawasan ini mencakup areal seluas 22.249,31 hektar dan berfungsi sebagai area perlindungan untuk penelitian, pendidikan, dan konservasi berbagai spesies flora dan fauna. Merupakan ekosistem hutan hujan tropis dan rumah bagi flora endemik seperti bunga bangkai (Amorphophallus), serta satwa termasuk matahari, tapir, rusa sambar, siamang, dan ayam hutan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.15,
+          -5.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "nama": "Tahura Wan Abdul Rachman - Youth Camp (Pintu Ekowisata)",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Youth Camp Tahura Wan Abdul Rachman merupakan pintu ekowisata utama yang terletak di Kota Bandar Lampung. Menyediakan fasilitas perkemahan dan berbagai aktivitas alam seperti tracking, edukasi lingkungan, dan kegiatan outbound. Terletak hanya 16 kilometer dari Kota Bandar Lampung dan Bandara Radin Inten II, kawasan ini dikelola oleh Dinas Kehutanan Provinsi Lampung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.19,
+          -5.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "nama": "Hutan Lindung Register 22 Way Waya",
+        "alamat": "Kabupaten Lampung Tengah",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Hutan Lindung Register 22 Way Waya terletak di Kabupaten Lampung Tengah. Register 22 merujuk pada penomoran kawasan hutan di Indonesia yang dikelola untuk tujuan perlindungan lingkungan. Kawasan ini berfungsi sebagai kawasan penyangga air bersih dan habitat berbagai spesies flora dan fauna endemic Lampung. Aktivitas manusia di sini dibatasi untuk menjaga kelestarian ekosistem."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.8,
+          -4.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "nama": "Hutan Lindung Register 39 Kota Agung Utara",
+        "alamat": "Kabupaten Tanggamus",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Hutan Lindung Register 39 Kota Agung Utara terletak di Kabupaten Tanggamus. Register 39 merupakan kawasan hutan dengan fungsi perlindungan yang mencakup beberapa sungai besar di Lampung seperti Way Seputih dan anak sungainya. Kawasan ini juga menjadi habitat alami bagi berbagai spesies langka dan menjadi sumber air bagi masyarakat sekitar."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.62,
+          -5.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "nama": "Suaka Margasatwa Gunung Raya",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Suaka Margasatwa Gunung Raya terletak di Kabupaten Lampung Barat. Kawasan ini ditetapkan sebagai area perlindungan satwa liar dengan berbagai spesies mamalia dan burung endemik. Terrain berbukit dan berhutan lebat menjadikannya habitat yang ideal bagi satwa-satwa liar yang memerlukan kawasan hutan yang belum terganggu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.95,
+          -4.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "nama": "Cagar Alam Kepulauan Krakatau",
+        "alamat": "Kabupaten Lampung Selatan",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Kepulauan Krakatau adalah kepulauan vulkanik aktif di Selat Sunda, antara Pulau Jawa dan Sumatra. Terkenal karena letusannya yang dahsyat pada 26-27 Agustus 1883 yang menewaskan sekitar 36.000 jiwa dan terdengar hingga Australia dan Afrika. Gunung Krakatau Purba pernah meletus hebat tahun 535 M yang menyebabkan terbentuknya Selat Sunda. Saat ini, Cagar Alam Kepulauan Krakatau meliputi beberapa pulau hasil vulkanisme termasuk Anak Krakatau yang masih aktif hingga sekarang."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.423,
+          -6.102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "nama": "Hutan Ekowisata Bumi Perkemahan Pramuka Way Kambas",
+        "alamat": "Kabupaten Lampung Timur",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Hutan Ekowisata Bumi Perkemahan Pramuka Way Kambas terletak di dalam atau sekitar kawasan Taman Nasional Way Kambas, Kabupaten Lampung Timur. Menyediakan fasilitas perkemahan Pramuka dan aktivitas ekowisata seperti birdwatching, photography, dan edukasi lingkungan. Lokasi yang strategis dekat dengan pusat konservasi gajah menjadikannya destinasi populer untuk kegiatan pendidikan alam terbuka."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.63,
+          -5.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "nama": "Hutan Mangrove Margasari",
+        "alamat": "Kabupaten Lampung Timur",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Hutan Mangrove Margasari terletak di Kabupaten Lampung Timur. Kawasan ini memiliki ekosistem mangrove yang sangat penting sebagai habitat biota laut, tempat berkembang biak ikan dan udang, serta berfungsi sebagai pelindung pantai dari abrasi dan tsunami. Visitors dapat menyusuri boardwalk untuk menikmati keindahan ekosistem mangrove dari dekat."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85,
+          -5.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "nama": "Hutan Mangrove Pahawang",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Hutan Mangrove Pahawang terletak di kawasan Pulau Pahawang, Kabupaten Pesawaran. Ekosistem mangrove di sini merupakan habitat penting bagi berbagai spesies burung air, kepiting, dan ikan. Aksesibilitas yang baik dari Bandar Lampung menjadikannya destinasi ekowisata populer untuk belajar tentang pentingnya konservasi mangrove."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.24,
+          -5.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "nama": "Kawasan Hutan Sekitar Danau Ranau",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Danau Ranau adalah danau terbesar kedua di Sumatra, terletak di perbatasan Kabupaten Ogan Komering Ulu Selatan (Provinsi Sumatera Selatan) dan Kabupaten Lampung Barat (Provinsi Lampung). Danau ini terbentuk dari gempa bumi dan letusan gunung berapi kuno yang menciptakan cekungan besar. Geologis, danau ini merupakan salah satu danau kaldera vulkanik-teknik terbesar di Sumatra. Menawarkan pemandangan spektakuler dengan pulau di tengahnya yang memiliki sumber air panas dan air terjun."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.93,
+          -4.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "nama": "Hutan Adat Pekon Hujung (Kaki Gunung Pesagi)",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Hutan Adat Pekon Hujung terletak di kaki Gunung Pesagi, Kabupaten Lampung Barat. Dikenal sebagai hutan adat yang dikelola secara tradisional oleh masyarakat setempat sesuai dengan kearifan lokal. Kawasan ini memiliki nilai konservasi tinggi karena terletak di lereng gunung tertinggi di Lampung dan menjadi habitat berbagai spesies flora dan fauna endemik."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.01,
+          -4.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "nama": "Hutan Wisata Kebun Raya Liwa",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Hutan Wisata Kebun Raya Liwa terletak di kota Liwa, Kabupaten Lampung Barat. Merupakan kawasan konservasi flora yang dikembangkan sebagai pusat penelitian, edukasi, dan rekreasi alam. Dengan suasana pegunungan yang sejuk, kawasan ini cocok untuk belajar tentang keanekaragaman hayati dan menikmati keindahan alam Lampung bagian barat."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.96,
+          -4.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "nama": "Taman Kupu-Kupu Gita Persada",
+        "alamat": "Kota Bandar Lampung",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Taman Kupu-Kupu Gita Persada terletak di Kota Bandar Lampung. Merupakan pusat konservasi kupu-kupu yang memungkinkan pengunjung untuk melihat berbagai spesies kupu-kupu dari dekat dan mempelajari daur hidup mereka. Taman ini juga memiliki area hutan yang menjadi habitat alami berbagai spesies kupu-kupu dan serangga lainnya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.22,
+          -5.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "nama": "Hutan Lindung Way Rilau",
+        "alamat": "Kabupaten Pesawaran",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Hutan Lindung Way Rilau terletak di Kabupaten Pesawaran. Kawasan ini memiliki fungsi penting sebagai daerah resapan air dan perlindungan terhadap banjir di wilayah hilir. Terdapat berbagai spesies flora dan fauna endemik yang hidup di dalamnya, menjadikannya area penting untuk konservasi biodiversity di Lampung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.18,
+          -5.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "nama": "Kawasan Ekowisata Hutan Kemasyarakatan (HKm) Bina Wana Jaya",
+        "alamat": "Kabupaten Lampung Barat",
+        "kategori": "hutan_alamLiar",
+        "deskripsi": "Kawasan Ekowisata Hutan Kemasyarakatan (HKm) Bina Wana Jaya terletak di Kabupaten Lampung Barat. Program HKm merupakan skema pengelolaan hutan oleh masyarakat yang memungkinkan pendapatan ekonomi melalui ekowisata tanpa merusak lingkungan. Visitors dapat menikmati keindahan alam sambil mendukung mata pencaharian berkelanjutan masyarakat lokal."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03,
+          -5.04
+        ]
+      }
+    }
+  ]
+}
