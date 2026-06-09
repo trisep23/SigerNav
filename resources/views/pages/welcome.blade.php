@@ -176,24 +176,54 @@
             </h2>
         </div>
 
-        <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4">
+<div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4">
 
-            @foreach ([
-                ['icon' => 'beach_access', 'label' => 'Pantai', 'color' => 'bg-blue-50 text-blue-600 hover:bg-blue-100'],
-                ['icon' => 'terrain', 'label' => 'Gunung', 'color' => 'bg-green-50 text-green-600 hover:bg-green-100'],
-                ['icon' => 'water_drop', 'label' => 'Air Terjun', 'color' => 'bg-cyan-50 text-cyan-600 hover:bg-cyan-100'],
-                ['icon' => 'anchor', 'label' => 'Pulau', 'color' => 'bg-indigo-50 text-indigo-600 hover:bg-indigo-100'],
-                ['icon' => 'park', 'label' => 'Hutan', 'color' => 'bg-emerald-50 text-emerald-600 hover:bg-emerald-100'],
-                ['icon' => 'account_balance', 'label' => 'Budaya', 'color' => 'bg-amber-50 text-amber-600 hover:bg-amber-100'],
-            ] as $cat)
-                <a href="/map?kategori={{ strtolower(str_replace(' ', '_', $cat['label'])) }}"
-                   class="group flex flex-col items-center gap-3 p-5 rounded-2xl border border-gray-100 {{ $cat['color'] }} transition-all duration-200 hover:shadow-md hover:-translate-y-1">
-                    <span class="material-icons text-4xl">{{ $cat['icon'] }}</span>
-                    <span class="text-sm font-semibold text-gray-700 group-hover:text-gray-900">{{ $cat['label'] }}</span>
-                </a>
-            @endforeach
+    @foreach ([
+        [
+            'label' => 'Pantai',
+            'color' => 'bg-blue-50 text-blue-600 hover:bg-blue-100',
+            'slug'  => 'pantai',
+            'icon'  => '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3C9 3 6 6 6 9c0 4 6 12 6 12s6-8 6-12c0-3-2.686-6-6-6z"/><path stroke-linecap="round" stroke-linejoin="round" d="M3 20c3-2 5-2 9 0s6 2 9 0"/></svg>',
+        ],
+        [
+            'label' => 'Gunung',
+            'color' => 'bg-green-50 text-green-600 hover:bg-green-100',
+            'slug'  => 'gunung',
+            'icon'  => '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10"><path stroke-linecap="round" stroke-linejoin="round" d="M3 20l5.5-10 3 5 2.5-4L21 20H3z"/><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 11l1.5-2.5 1.5 2.5"/></svg>',
+        ],
+        [
+            'label' => 'Air Terjun',
+            'color' => 'bg-cyan-50 text-cyan-600 hover:bg-cyan-100',
+            'slug'  => 'air_terjun',
+            'icon'  => '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v10M9 6v7M15 6v7"/><path stroke-linecap="round" stroke-linejoin="round" d="M6 17c0 2.21 2.686 4 6 4s6-1.79 6-4"/><path stroke-linecap="round" stroke-linejoin="round" d="M6 17c1-1 3-2 6-2s5 1 6 2"/></svg>',
+        ],
+        [
+            'label' => 'Pulau',
+            'color' => 'bg-indigo-50 text-indigo-600 hover:bg-indigo-100',
+            'slug'  => 'pulau',
+            'icon'  => '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10"><ellipse cx="12" cy="19" rx="8" ry="2" stroke="currentColor" stroke-width="1.5" fill="none"/><path stroke-linecap="round" stroke-linejoin="round" d="M12 19V11"/><path stroke-linecap="round" stroke-linejoin="round" d="M12 11c0 0-3-4-3-7a3 3 0 016 0c0 3-3 7-3 7z"/><path stroke-linecap="round" stroke-linejoin="round" d="M9 7c-1 0-3 1-4 3"/><path stroke-linecap="round" stroke-linejoin="round" d="M15 7c1 0 3 1 4 3"/></svg>',
+        ],
+        [
+            'label' => 'Hutan',
+            'color' => 'bg-emerald-50 text-emerald-600 hover:bg-emerald-100',
+            'slug'  => 'hutan',
+            'icon'  => '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3L6 12h3l-3 6h12l-3-6h3L12 3z"/><path stroke-linecap="round" stroke-linejoin="round" d="M10 21v1M14 21v1"/></svg>',
+        ],
+        [
+            'label' => 'Budaya',
+            'color' => 'bg-amber-50 text-amber-600 hover:bg-amber-100',
+            'slug'  => 'budaya',
+            'icon'  => '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10"><path stroke-linecap="round" stroke-linejoin="round" d="M3 21h18M3 10l9-7 9 7M5 10v11M19 10v11M9 21v-6h6v6"/><path stroke-linecap="round" stroke-linejoin="round" d="M9 10h.01M15 10h.01"/></svg>',
+        ],
+    ] as $cat)
+        <a href="/map?kategori={{ $cat['slug'] }}"
+           class="group flex flex-col items-center gap-3 p-5 rounded-2xl border border-gray-100 {{ $cat['color'] }} transition-all duration-200 hover:shadow-md hover:-translate-y-1">
+            {!! $cat['icon'] !!}
+            <span class="text-sm font-semibold text-gray-700 group-hover:text-gray-900">{{ $cat['label'] }}</span>
+        </a>
+    @endforeach
 
-        </div>
+</div>
     </div>
 </section>
 
